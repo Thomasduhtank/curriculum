@@ -85,6 +85,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 
 * Add your solution below this list
 
+* {Thomas Osborns Solution (Easy)](https://github.com/Thomasduhtank/google-homepage) - [View in Browser](https://thomasduhtank.github.io/google-homepage/)
 * [William Heryanto's Solution (Easy)](https://github.com/w-hyt/google-homepage) - [View in Browser](https://w-hyt.github.io/google-homepage/)
 * [Iacob Sorin solution (Easy)](https://github.com/iacobssorin/google-homepage/) - [View in Browser](https://iacobssorin.github.io/google-homepage/)
 * [George Zhu's solution (Easy Version)](https://github.com/georgezhu11/google-homepage) - [View in browser](https://georgezhu11.github.io/google-homepage/)
